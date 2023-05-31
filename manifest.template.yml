@@ -1,0 +1,11 @@
+modules:
+  macro:
+    - key: forge-share-app-demo-hello-world
+      function: main
+      title: Forge share app demo
+      description: Demonstrates how to share a Forge app between developers
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: ari:cloud:ecosystem::app/${SHARE_APP_DEMO_APP_ID}
