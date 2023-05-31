@@ -1,6 +1,6 @@
 modules:
   macro:
-    - key: forge-share-app-demo-hello-world
+    - key: forge-share-app-demo
       function: main
       title: Forge share app demo
       description: Demonstrates how to share a Forge app between developers

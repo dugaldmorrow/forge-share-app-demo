@@ -2,7 +2,3 @@
 /dist/
 /.vscode/
 .idea
-
-
-# Only checking in manifest.template.yml
-manifest.yml
