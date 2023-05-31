@@ -8,6 +8,11 @@ The Forge manifest.yml contains the ID of the app. Sometimes, however, different
 
 This project demonstrates how a Forge app codebase can be shared between independent developers, allowing each developer to manage separate apps generated from the code.
 
+Note these related and alternate solutions:
+
+* Forge multi user app ownership (still in development).
+* Using git filter as described [here](https://community.developer.atlassian.com/t/how-do-you-let-multiple-developers-work-on-the-same-forge-app/44876/9).
+
 # Setup
 
 ## Project setup
