@@ -28,8 +28,22 @@ app:
 
 1. Check out the project.
 4. Run `forge register`.
-5. Update your environment variable with the real app ID `export SHARE_APP_DEMO_APP_ID=xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx`.
+5. Update your environment variable with the real app ID (see the Setting the envinment variable section below).
 6. Run `npm run reset-manifest` to re-generate "manifest.yml" with your app ID. 
+
+## Setting the envinment variable
+
+To set the environment variable on a Mac or Linux computer:
+
+```
+export SHARE_APP_DEMO_APP_ID=xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+```
+
+To set the environment variable on a Windows computer:
+
+```
+set SHARE_APP_DEMO_APP_ID=xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+```
 
 
 # Checking out and pulling code
